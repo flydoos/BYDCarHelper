@@ -1,0 +1,55 @@
+# ❓常见问题
+
+此处记录一些常见问题，需要对大家有所帮助，如果没有找到你想要的答案，欢迎在“Issues”提问！
+
+## 1、如何设置钉钉机器人？
+
+### 一、添加钉钉群机器人
+
+创建一个钉钉群——群设置——智能群助手——添加机器人——选择“自定义”（通过Webhook接入自定义服务）——添加——填写机器人名称“小迪”——安全设置勾选“加签”——完成
+
+![钉钉机器人设置截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/Robot-1.0.0.png)
+
+### 二、修改配置
+
+需要把“Webhook”地址，以及“加签”的秘钥信息复制下来，打开“比亚迪车辆助手”程序，通过“设置”界面进行配置
+
+## 2、如何使用“任务计划程序”添加定时任务？
+
+### 一、打开Windows“任务计划程序”
+
+Windows开始菜单——运行——taskschd.msc
+
+或者是
+
+Windows键+S，搜索“任务计划程序”
+
+### 二、创建任务
+
+1、打开任务计划程序之后，右侧可以“创建任务”
+
+![任务计划程序](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/TASKS-01.png)
+
+2、“常规”设置：填写名称“BYD车况同步”——选中“不管用户是否登录都要运行”——选中“使用最高权限运行”
+
+![任务计划程序](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/TASKS-02.png)
+
+3、“触发器”设置：新建——每天——日期不用管，但是要把时分秒改成“00:00:00”——勾选“重复任务间隔”，选择“1小时”，持续时间“1天”
+
+![任务计划程序](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/TASKS-03.png)
+
+4、“操作”设置：新建——启动程序——程序或脚本，选择我们的“BYDCarHelper.exe”所在路径——添加参数“--run-type=1”，这个是静默启动参数，执行完任务会会自动退出程序
+
+![任务计划程序](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/TASKS-04.png)
+
+5、按照上面设置完毕之后，点击“确定”，输入开机密码即可完成
+
+## 3、使用PicGo+七牛云实现图片上传功能？
+
+### 一、安装教程
+
+查看教程：[《使用PicGo+七牛云实现图片上传功能（制作自己的图床网站）》](https://www.wuleba.com/?p=1919)
+
+### 二、修改配置
+
+打开“比亚迪车辆助手”程序，通过“设置”界面进行配置，把“是否需要上传图片”从默认的“否”改成“是”
