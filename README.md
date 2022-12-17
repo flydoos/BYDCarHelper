@@ -25,19 +25,17 @@
 3. 支持钉钉群机器人，自动推送到你的手机/PC钉钉查看
 4. 支持免打扰功能（如果最新数据与上次相同，将不会重复推送到钉钉群，避免骚扰用户）
 5. 支持自动获取比亚迪Cookie（不需要繁琐的抓包过程）
+6. 支持远程控制（例如：车门上锁、车门解锁、关闭车窗、开启空调、关闭空调、闪灯鸣笛、闪灯）
+7. 支持智能上电（当车辆发生解锁，且主驾车门打开时，将会自动远程启动）
 
 ## 📌前置条件
 
 **如何操作，可以查看教程：[FAQ](FAQ.md)**
 
 1. [必选] 登录PC版微信，需要用户手动打开“比亚迪DiLink”微信公众号——远程控制——实时车况，通过“比亚迪车辆助手PC版”——设置——获取，可以自动获取比亚迪Cookie信息
-
 2. [必选] 这是一款Windows程序，需要在Windows里运行exe，可以手动刷新查看，或者是结合Windows任务计划程序，进行定时执行（推荐这个方式）。也就是说，如果你把电脑关闭，那就没办法同步数据了
-
 3. [必选] 需要去钉钉群添加一个Webhook群机器人，并且带加签方式，用于钉钉群消息推送
-
 4. [可选] 需要在Windows电脑上安装 PicGo + 注册“七牛云”账号（每个月免费10GB够用），通过PicGo上传本地图片到七牛云，这个图片上传功能默认不开启（不开启的话钉钉群无法显示图片）
-
 
 ## 🔗下载地址
 
@@ -45,9 +43,9 @@
 
 ## 📷截图
 
-![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/PC-1.0.0.png)
+![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/PC-1.1.0.png)
 
-![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/SETTING-1.0.0.png)
+![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/SETTING-1.1.0.png)
 
 ## 🔨使用方法
 
