@@ -23,7 +23,7 @@
 1. 支持车况信息同步（大部分信息都支持）
 2. 支持统计报表（自动生成“能耗趋势图、续航趋势图、总里程趋势图”）
 3. 支持钉钉群机器人，自动推送到你的手机/PC钉钉查看
-4. 支持免打扰功能（如果最新数据与上次相同，将不会重复推送到钉钉群，避免骚扰用户）
+4. 支持免打扰功能（如果最新数据与上次相同，或者车辆不是熄灭状态，将不会推送到钉钉群，避免骚扰用户）
 5. 支持自动获取比亚迪Cookie（不需要繁琐的抓包过程）
 6. 支持远程控制（例如：车门上锁、车门解锁、关闭车窗、开启空调、关闭空调、闪灯鸣笛、闪灯）
 7. 支持智能上电（当车辆发生解锁时，将会自动远程启动。在下一次车辆上锁前，只会执行1次）
@@ -44,9 +44,9 @@
 
 ## 📷截图
 
-![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/PC-1.2.0.png)
+![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/PC-1.2.1.png)
 
-![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/SETTING-1.2.0.png)
+![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/SETTING-1.2.1.png)
 
 ## 🔨使用方法
 
