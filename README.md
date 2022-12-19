@@ -25,7 +25,7 @@
 4. 支持免打扰功能（如果最新数据与上次相同，或者车辆不是熄灭状态，将不会推送到钉钉群，避免骚扰用户）
 5. 支持自动获取比亚迪Cookie（不需要繁琐的抓包过程）
 6. 支持远程控制（例如：车门上锁、车门解锁、关闭车窗、开启空调、关闭空调、闪灯鸣笛、闪灯）
-7. 支持智能上电（当车辆发生解锁时，将会自动远程启动。在下一次车辆上锁前，只会执行1次）
+7. 支持智能上电（当车辆发生解锁时、或者解锁+主驾车门打开时，将会自动远程启动）
 8. 支持智能锁车（当车辆电源关闭时，且车辆处于解锁状态，持续几分钟未变化，将会自动上锁+关闭车窗）
 9. 支持程序启动后自动开启上次的智能任务（例如：智能上电、智能锁车，且会最小化到系统托盘系统）
 
@@ -44,9 +44,9 @@
 
 ## 📷截图
 
-![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/PC-1.2.4.png)
+![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/PC-1.2.5.png)
 
-![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/SETTING-1.2.4.png)
+![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/SETTING-1.2.5.png)
 
 ## 🔨使用方法
 
