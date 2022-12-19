@@ -44,7 +44,7 @@
 
 ## 📷截图
 
-![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/PC-1.2.1.png)
+![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/PC-1.2.3.png)
 
 ![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/SETTING-1.2.1.png)
 
