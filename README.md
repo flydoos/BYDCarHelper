@@ -61,7 +61,7 @@
 
 手机钉钉效果展示：
 
-![手机钉钉截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/Mobile-1.3.3.png)
+![手机钉钉截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/Mobile-1.3.3.jpg)
 
 ## ❓常见问题
 
