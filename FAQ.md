@@ -56,7 +56,7 @@ C:\Users\用户名\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
 2、你的网络是不是会自动断开（比如公司网络，需要确保24小时互联网在线）
 
-3、PC微信没有开启，或者是微信聊天窗口比关闭
+3、PC微信没有开启，或者是微信聊天窗口被关闭
 
 4、如果手动获取Cookie，尝试了多次依然失败，请进QQ群联系作者协助
 
