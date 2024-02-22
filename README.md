@@ -44,15 +44,15 @@
 
 ## 📷截图
 
-![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/PC-4.5.0.png)
+![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/PC-4.6.0.png)
 
-![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/TRUST-4.0.0.jpg)
+![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/TRUST-4.6.0.jpg)
 
-![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/SETTING-4.1.0.png)
+![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/SETTING-4.6.0.png)
 
 ## 🔨使用方法
 
-1. 需要大家自行准备一台PC电脑，并且安装“最新版”PC微信（**微信版本最低使用3.9.2.26，建议下载官方最新版PC微信**），系统建议Win10或以上版本（最低支持WinXP），并且能保持24小时互联网在线，你的系统需要满足以下条件：
+1. 需要大家自行准备一台PC电脑，并且安装“最新版”PC微信（**微信版本最低使用3.9.2.23，建议下载官方最新版PC微信**），系统建议Win10或以上版本（最低支持WinXP），并且能保持24小时互联网在线，你的系统需要满足以下条件：
 
     * Windows XP 或更高版本。
     * [.NET Framework 4.0](https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=17718) 或更高版本。低于此版本在打开程序时可能无反应，或者直接报错。
@@ -92,7 +92,7 @@
     * 请使用PC版微信3.9.2.x以上版本，或者是最新版微信，以前的旧版本可能不支持，导致出现一些未知报错
     * 如果你的PC版微信使用“兼容模式”运行，将会导致无法附加进程，从而无法获取Cookie，需要在桌面图标中取消微信的“兼容模式”运行
     * 有些时候车辆助手会被杀软拦截，需要手动添加进白名单，否则也会导致无法获取Cookie
-    * 如果还是无法解决，建议你把微信版本降级到3.9.2.26，或者请加Q群：223541319，联系作者远程协助处理
+    * 如果还是无法解决，建议你把微信版本降级到3.9.2.23，或者请加Q群：223541319，联系作者远程协助处理
  
 4. 如果手动获取Cookie正常，但是**无法自动续期Cookie**，常见原因：
 
