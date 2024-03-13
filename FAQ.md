@@ -230,7 +230,7 @@ C:\Users\用户名\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 		"ljAvgNh": 4.46,
 		
 		//车牌号
-		"autoPlate": "粤AFxxxxx",
+		"autoPlate": "粤xxxxxxx",
 		
 		//车辆类型，例如：宋PLUS DM-i
 		"autoType": "宋PLUS DM-i",
