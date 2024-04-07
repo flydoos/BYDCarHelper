@@ -140,10 +140,6 @@ QQ群：223541319 （催更请进群）
 
 ![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/WinASAR/Images/Donate.png)
 
-## 📄协议说明
-
-基于 [木兰宽松许可证（第2版）](http://license.coscl.org.cn/MulanPSL2/) 协议。
-
 ## ⚖️免责声明
 
 远程控制、智能化操作等功能涉及车辆安全及人员安全，使用相关功能产生的一切后果需要用户自行承担，使用本程序则表示用户接受此条款。
