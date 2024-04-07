@@ -42,6 +42,8 @@
  
 **下载地址：[⚡️最新版BYD车辆助手PC版下载](https://github.com/flydoos/BYDCarHelper/releases/latest)**
 
+其他推荐：[🦇钉钉消息防撤回补丁](https://github.com/flydoos/DingTalkRevokeMsgPatcher) | [📖飞书消息防撤回补丁](https://github.com/flydoos/FeiShuRevokeMsgPatcher) | [🔖查看作者更多作品](https://github.com/flydoos)
+
 ## 📷截图
 
 ![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/PC-4.8.0.png)
@@ -57,7 +59,7 @@
     * Windows XP 或更高版本。
     * [.NET Framework 4.0](https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=17718) 或更高版本。低于此版本在打开程序时可能无反应，或者直接报错。
 
-2. 由于程序加壳，并且没有购买数字签名证书，**杀毒软件可能会弹出警告，放行即可。**
+2. 由于程序加壳，并且没有购买数字签名证书，**杀毒软件可能会弹出警告，请放行且添加程序目录到信任白名单。**
 
 3. 登录PC微信，微信关注“**比亚迪Dilink**”公众号，登录并绑定账号，打开微信任意聊天窗口（**不可退出微信程序**）
 
@@ -133,6 +135,10 @@ QQ群：223541319 （催更请进群）
 官网：https://www.wuleba.com （2021年国庆的时候网站恢复了，大家去支持下）
 
 对 "BYDCarHelper" 有任何使用上或者技术上的疑问，欢迎随时联系作者。
+
+## 🧧投喂
+
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/WinASAR/Images/Donate.png)
 
 ## 📄开源协议
 
