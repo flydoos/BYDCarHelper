@@ -46,7 +46,7 @@
 
 ## 📷截图
 
-![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/PC-4.8.0.png)
+![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/PC-4.8.1.png)
 
 ![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/TRUST-4.6.0.jpg)
 
