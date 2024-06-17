@@ -145,3 +145,7 @@ QQ群：223541319 （催更请进群）
 远程控制、智能化操作等功能涉及车辆安全及人员安全，使用相关功能产生的一切后果需要用户自行承担，使用本程序则表示用户接受此条款。
 
 本程序是作者闲暇之余，方便自己使用而开发的一个小工具。如果对其他人/公司造成不好的影响，请到QQ群联系作者，我会马上删除，谢谢。
+
+<p align="center">
+	<img width="100%" src="https://api.star-history.com/svg?repos=flydoos/BYDCarHelper&type=Date"/>
+</p>
