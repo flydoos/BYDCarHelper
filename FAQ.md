@@ -266,3 +266,9 @@ C:\Users\用户名\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 2）删除这个目录下的3个文件夹：RadiumWMPF、ThumbPlayer、WeChatUtility（不用怕，删掉了微信也会自动重新下载的）
 
 如果上述方法依然无法解决，这个就要自己去百度了，毕竟是微信的小程序打开有问题，小编这边也没办法~~
+
+## 16、什么时候才会自动签到？
+
+啥时候获取Cookie，就啥时候自动签到，具体要看你自己设置的间隔是多久。除此之外，如果电脑不是空闲状态，他也不会获取Cookie（避免白天干活的时候，自动获取Cookie，被领导看到难以解释），必须等电脑闲置15分钟之后才会开始任务。
+
+所以，签到时间 = 获取Cookie时间 = 自动续期Cookie间隔 + 空闲15分钟
