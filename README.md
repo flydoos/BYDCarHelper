@@ -42,7 +42,7 @@
 
 ## 🔗下载地址
  
-**下载地址：[⚡️最新版BYD车辆助手PC版下载](https://github.com/flydoos/BYDCarHelper/releases/latest)**
+**下载地址：[⚡️最新版BYD车辆助手PC版下载（已失效）](https://github.com/flydoos/BYDCarHelper/releases/latest)**
 
 其他推荐：[🦇钉钉消息防撤回补丁](https://github.com/flydoos/DingTalkRevokeMsgPatcher) | [📖飞书消息防撤回补丁](https://github.com/flydoos/FeiShuRevokeMsgPatcher) | [🔖查看作者更多作品](https://github.com/flydoos)
 
