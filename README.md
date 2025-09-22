@@ -40,7 +40,7 @@
 
 ## 🆕2024年10月16日，收到厂商投诉，本软件停止更新！
 
-【更多软件交流，可加QQ群：102084038】
+**【更多软件交流，可加QQ群：102084038】**
 
 ![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/DriveLink-01.png)
 
@@ -55,7 +55,7 @@
 ![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/DriveLink-06.png)
 
 ## 🔗下载地址
- 
+
 **下载地址：[⚡️最新版BYD车辆助手PC版下载（已失效）](https://github.com/flydoos/BYDCarHelper/releases/latest)**
 
 其他推荐：[🦇钉钉消息防撤回补丁](https://github.com/flydoos/DingTalkRevokeMsgPatcher) | [📖飞书消息防撤回补丁](https://github.com/flydoos/FeiShuRevokeMsgPatcher) | [🔖查看作者更多作品](https://github.com/flydoos)
