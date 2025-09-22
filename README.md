@@ -44,15 +44,11 @@
 
 ![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/DriveLink-01.png)
 
-![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/DriveLink-02.png)
-
 ![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/DriveLink-03.png)
 
 ![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/DriveLink-04.png)
 
 ![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/DriveLink-05.png)
-
-![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/DriveLink-06.png)
 
 ## 🔗下载地址
 
