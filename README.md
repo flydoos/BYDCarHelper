@@ -40,7 +40,9 @@
 
 ## 🆕2024年10月16日，收到厂商投诉，本软件停止更新！
 
-**【更多软件交流，可加QQ群：102084038】**
+**【更多软件交流，可加QQ群：102084038（如果群号搜索不到，就打开下面的加群链接）】**
+
+加入QQ群：http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=PE5TJ_slj8mK_xS9uv07QeIzBS_5jcTC&authKey=3H0%2FQaessfTIlaqAzxHYNxcoTwb4Mr4R84uTEi85mczYlVCinaSKmIYROo2booRk&noverify=0&group_code=102084038
 
 ![PC端软件截图](https://cdn.jsdelivr.net/gh/flydoos/BYDCarHelper/Images/DriveLink-01.png)
 
